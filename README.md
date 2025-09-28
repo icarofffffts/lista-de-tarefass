@@ -23,5 +23,5 @@ Um simples, mas elegante, aplicativo de lista de tarefas (To-Do List) criado com
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**
+- **JavaScript**
 - **Google Fonts** (Montserrat)
