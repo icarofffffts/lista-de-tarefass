@@ -15,7 +15,7 @@ Um simples, mas elegante, aplicativo de lista de tarefas (To-Do List) criado com
 
 1.  Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/icarofffffts/lista-de-tarefass
     ```
 2.  Abra o arquivo `index.html` em seu navegador de preferência.
 
